@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743185025587",
+    "project_id": "mobilius-d9329",
+    "storage_bucket": "mobilius-d9329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743185025587:android:27218f545711bc1faa3146",
+        "android_client_info": {
+          "package_name": "com.example.navigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743185025587-q86nv7mt7ejhtgs89lh0dd866qpseeb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-zCXElHdHF6M2L8Dmh-pxB99aFQCtl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743185025587-q86nv7mt7ejhtgs89lh0dd866qpseeb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
